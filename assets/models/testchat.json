@@ -1,0 +1,24 @@
+{
+    "connections" : [
+        "adioktav1997@gmail.com",
+        "rickyoktavio97@gmail.com"
+    ],
+    "totalChats" : 10,
+    "totalRead" : 8,
+    "totalUnread" : 2,
+    "chat":[
+        {
+            "pengirim" : "adioktav1997@gmail.com",
+            "penerima" : "rickyoktavio97@gmail.com",
+            "pesan" : "Hello 1997",
+            "time" : "2022-07-25T13:28:59.748721"
+        },
+        {
+            "pengirim" : "rickyoktavio97@gmail.com",
+            "penerima" : "adioktav1997@gmail.com",
+            "pesan" : "Hello 97",
+            "time" : "2022-07-25T13:28:59.748721"
+        }
+    ],
+    "lastTime" : "2022-07-25T13:28:59.748721"
+}

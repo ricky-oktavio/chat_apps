@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768641804891",
+    "project_id": "appchat-rickdevs",
+    "storage_bucket": "appchat-rickdevs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768641804891:android:3d7ec27bbd9c3c01422d7e",
+        "android_client_info": {
+          "package_name": "com.rickudevs.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768641804891-7vafvofuqhh5f1tkpmeb40slbamqn3es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rickudevs.chat_app",
+            "certificate_hash": "ffc392a20c146adbbc44e52babfcf9aa6eabd5ab"
+          }
+        },
+        {
+          "client_id": "768641804891-3rr77qj6amv9aftepm2m0apsq0n50o39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGzkG78PLYRg3196Q67nEv7oKrrflb1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768641804891-3rr77qj6amv9aftepm2m0apsq0n50o39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
